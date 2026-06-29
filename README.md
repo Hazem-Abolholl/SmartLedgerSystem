@@ -20,6 +20,8 @@
 * **أدوات مطور مدمجة:** تم تزويد السكربتات بنظام فحص ذاتي (`console.log`) لمراقبة تدفق البيانات من قاعدة البيانات إلى المتصفح مباشرة.
 
 ---
+<img width="1892" height="881" alt="Screenshot 2026-06-29 154817" src="https://github.com/user-attachments/assets/71fe514c-41b0-44bc-8cee-db0ad5a34886" />
+
 
 ## 🛠️ التقنيات المستخدمة (Tech Stack)
 
